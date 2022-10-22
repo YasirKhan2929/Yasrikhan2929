@@ -13,7 +13,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.linkedin.com/in/yasir-khan-212119200/"/>][linkedin]
+[<img align="left" alt="yasirasmat | LinkedIn" height="30px" src="https://www.linkedin.com/in/yasir-khan-212119200/"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
