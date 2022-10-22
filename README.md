@@ -16,13 +16,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank"https://www.linkedin.com/in/yasir-khan-212119200/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yasir-khan-212119200/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/YasirKhan2929">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/yasir__sss_">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yasir_096">
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yasir_096">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
